@@ -1,0 +1,15 @@
+{
+  "name": "downunder",
+  "version": "0.0.1",
+  "description": "A workshopper choose your adventure for underscore",
+  "bin": "downunder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "preferGlobal": true,
+  "dependencies": {
+    "workshopper": "~0.4.0"
+  }
+}
