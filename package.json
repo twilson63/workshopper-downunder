@@ -10,6 +10,7 @@
   "license": "MIT",
   "preferGlobal": true,
   "dependencies": {
-    "workshopper": "~0.4.0"
+    "workshopper": "~0.4.0",
+    "underscore": "~1.5.2"
   }
 }
